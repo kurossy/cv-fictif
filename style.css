@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+}
+html {
+    background-color: chartreuse;
+}
+h1 {
+    color: chartreuse;
+    text-align: center;
+    font-size: 400%;
+}
+h2 {
+    color: chartreuse;
+}
